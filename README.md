@@ -1,8 +1,5 @@
 ### Hey, I'm Shri 👋
 
-**Studying CS + DS @ Purdue**  
-Entrepreneur and Student
-
 I’m passionate about AI-driven software, Data Engineering, and shipping software to end users.
 I like taking ideas → prototypes → deployed real-world solutions.
 
