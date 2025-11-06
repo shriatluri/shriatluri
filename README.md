@@ -1,7 +1,6 @@
 ### Hey, I'm Shri 👋
 
 I’m passionate about AI-driven software and shipping valuable products to end users.
-I like taking ideas → prototypes → deployed real-world solutions.
 
 ---
 
