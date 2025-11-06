@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hey, I'm Shri 👋
 
-<!--
-**shriatluri/shriatluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Studying CS + DS @ Purdue**  
+Entrepreneur and Student
 
-Here are some ideas to get you started:
+I’m passionate about AI-driven software, Data Engineering, and shipping software to end users.
+I like taking ideas → prototypes → deployed real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Projects
+- **Radius** - Website Optimization for AI Search
+- **Money Monkey** — Gamified financial literacy for students
+
+---
+
+### 🛠️ Tech I Work With
+Python · JavaScript · TypeScript · React · Node.js · Flutter · Firebase  
+PostgreSQL · Snowflake · Redis · Kafka · Docker · AWS · GCP
+
+---
+
+### 🌱 I’m Learning More About
+Agentic AI, Advanced Algorithms, and Distributed Systems
+
+---
+
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/shriatluri) • [Website](https://shris-site.vercel.app/) • [Insta](https://www.instagram.com/shriatluri/)
