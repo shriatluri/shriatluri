@@ -6,8 +6,8 @@ I like taking ideas → prototypes → deployed real-world solutions.
 ---
 
 ### 🚀 Current Projects
-- **Radius** - Website Optimization for AI Search
-- **Money Monkey** — Gamified financial literacy for students
+- **Radius** - Website Optimization for AI Search (Link Soon!)
+- **Money Monkey** - Gamified financial literacy for students [Money Monkey](https://moneymonkey-tau.vercel.app/)
 
 ---
 
