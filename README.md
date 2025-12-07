@@ -12,7 +12,7 @@ I’m passionate about AI-driven software and shipping valuable products to end 
 
 ### 🛠️ Tech I Work With
 Python · JavaScript · TypeScript · React · Node.js · Flutter · Firebase  
-PostgreSQL · Snowflake · Redis · Kafka · Docker · AWS · GCP
+PostgreSQL · Snowflake ·  Databricks · Redis · Kafka · Docker · AWS · GCP
 
 ---
 
