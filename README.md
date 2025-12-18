@@ -22,4 +22,4 @@ Agentic AI, Advanced Algorithms, and Distributed Systems
 ---
 
 ### 📫 Connect
-[LinkedIn](https://linkedin.com/in/shriatluri) • [Website](https://shris-site.vercel.app/) • [Instagram](https://www.instagram.com/shriatluri/)
+[LinkedIn](https://linkedin.com/in/shriatluri) • [Instagram](https://www.instagram.com/shriatluri/)
