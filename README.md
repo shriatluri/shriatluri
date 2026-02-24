@@ -5,7 +5,7 @@ I’m passionate about AI-driven software and shipping valuable products to end 
 ---
 
 ### 🚀 Current Projects
-- **Radius** - Automated compliance for Stablecoin Payments
+- **Radius**(https://github.com/shriatluri/sc-compliance/) - Automated compliance for Stablecoin Payments
 - **[Money Monkey](https://moneymonkey-tau.vercel.app/)** - Gamified financial literacy for students 
 
 ---
