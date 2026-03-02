@@ -6,7 +6,7 @@ I’m passionate about AI-driven software and shipping valuable products to end 
 
 ### Featured Projects
 - **[Radius](https://getradius.vercel.app/)** - Automated compliance for Stablecoin Payments
-- **[Chronicle](https://capsule-steel.vercel.app/)** - Travel back in time, change the world
+- **[Chronicle](https://capsule-game.vercel.app/)** - Travel back in time, change the world
 - **[Money Monkey](https://moneymonkey-tau.vercel.app/)** - Gamified financial literacy for students 
 
 ---
