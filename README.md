@@ -18,4 +18,4 @@ PostgreSQL · Snowflake ·  Databricks · Redis · Kafka · Docker · AWS · GCP
 ---
 
 ### I’m Learning More About
-Context Optimization, Inference Engineering, and AI employees
+Inference Engineering, Computer Use, and AI employees
