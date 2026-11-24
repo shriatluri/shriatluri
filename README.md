@@ -5,7 +5,7 @@ I’m passionate about AI-driven software and shipping valuable products to end 
 ---
 
 ### Website
-Check out [my website](https://www.shriatluri.com/) to see what i'm working on
+Check out my [website](https://www.shriatluri.com/)
 
 ---
 
